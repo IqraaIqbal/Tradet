@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883578102761",
+    "project_id": "iqraa-ada0c",
+    "storage_bucket": "iqraa-ada0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883578102761:android:55b27ad2728a9c59bd6178",
+        "android_client_info": {
+          "package_name": "com.example.barter_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBszcq7WNl5em3nKHINHuBDFZCEZf1003Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
